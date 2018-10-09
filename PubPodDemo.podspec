@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PubPodDemo'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of PubPodDemo.'
+  s.version          = '0.0.1'
+  s.summary          = 'Pod共有库练习'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+    练习Pod共有库，对全代码情况、包含framework&a文件情况和bundle情况进行练习
                        DESC
 
-  s.homepage         = 'https://github.com/971840097@qq.com/PubPodDemo'
+  s.homepage         = 'https://github.com/JoyaGuo/PubPodDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '971840097@qq.com' => 'guoqiaosheng@bianfeng.com' }
-  s.source           = { :git => 'https://github.com/971840097@qq.com/PubPodDemo.git', :tag => s.version.to_s }
+  s.author           = { 'JoyaGuo' => '971840097@qq.com' }
+  s.source           = { :git => 'https://github.com/JoyaGuo/PubPodDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

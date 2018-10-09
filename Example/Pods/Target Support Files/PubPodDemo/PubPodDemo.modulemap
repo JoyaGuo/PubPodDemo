@@ -1,0 +1,6 @@
+framework module PubPodDemo {
+  umbrella header "PubPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

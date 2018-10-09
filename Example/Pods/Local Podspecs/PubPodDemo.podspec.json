@@ -1,0 +1,22 @@
+{
+  "name": "PubPodDemo",
+  "version": "0.1.0",
+  "summary": "A short description of PubPodDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/971840097@qq.com/PubPodDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "971840097@qq.com": "guoqiaosheng@bianfeng.com"
+  },
+  "source": {
+    "git": "https://github.com/971840097@qq.com/PubPodDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PubPodDemo/Classes/**/*"
+}
