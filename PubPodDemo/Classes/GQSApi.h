@@ -27,6 +27,14 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (BOOL)secretValid;
 
+
+/**
+ 分享到微信
+
+ @param infoDictionary 字典类型参数
+ */
++ (void)shareToWX:(NSDictionary *)infoDictionary;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/PubPodDemo.svg?style=flat)](https://cocoapods.org/pods/PubPodDemo)
 [![Platform](https://img.shields.io/cocoapods/p/PubPodDemo.svg?style=flat)](https://cocoapods.org/pods/PubPodDemo)
 
+Pod开源库练习demo  Exercise Only
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +24,7 @@ pod 'PubPodDemo'
 
 ## Author
 
-971840097@qq.com, guoqiaosheng@bianfeng.com
+JoyaGuo, 971840097@qq.com
 
 ## License
 

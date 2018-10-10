@@ -4,7 +4,9 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - PubPodDemo (0.1.0)
+  - PubPodDemo (0.0.2):
+    - WechatOpenSDK
+  - WechatOpenSDK (1.8.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -13,6 +15,7 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - FBSnapshotTestCase
+    - WechatOpenSDK
 
 EXTERNAL SOURCES:
   PubPodDemo:
@@ -20,8 +23,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  PubPodDemo: 5be2f632bdf28ca3c8e9eddf6de81b6e33866aae
+  PubPodDemo: 9abaf07e0a8ab6485554d25d96d938d949665e60
+  WechatOpenSDK: 676feec516a11173eafd1fe64b10d27babf28701
 
-PODFILE CHECKSUM: 330f7c34dbcd7bc1733fa9bda527b71676bbaca1
+PODFILE CHECKSUM: ee5209123f830678e7eb14c3103569be434a5056
 
 COCOAPODS: 1.5.3
